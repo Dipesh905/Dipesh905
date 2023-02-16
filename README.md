@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dipeshghmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipeshghmr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipesh-ghimire-3b12871a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipesh-ghimire-3b12871a3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipesh-ghimire-3b12871a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/er-dipesh-ghimire-3b12871a3/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC3V_PlsEf3ts62ISGgwmciw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC3V_PlsEf3ts62ISGgwmciw/" height="30" width="40" /></a>
 </p>
 
